@@ -4,7 +4,7 @@ public class StringToChar {
 
 	public static void main(String[] args) {
 
-		String s = "sneha";
+		String s = "saagarrrad";
 
 		char[] ch = new char[s.length()];
 
