@@ -8,6 +8,8 @@ import java.util.Scanner;
 public class Array_Input {
 
 	public static void main(String[] args) {
+		
+		String str = "Sagar";
 
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter Array Elements you want to store :");

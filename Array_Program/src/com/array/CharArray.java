@@ -4,7 +4,7 @@ public class CharArray {
 
 	public static void main(String[] args) {
 
-		String str = "sneha";
+		String str = "Sagar";
 
 		char[] ch = str.toCharArray();
 
