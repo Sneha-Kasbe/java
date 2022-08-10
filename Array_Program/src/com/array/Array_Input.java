@@ -9,7 +9,7 @@ public class Array_Input {
 
 	public static void main(String[] args) {
 		
-		String str = "Sagar";
+		String str = "Sneha";
 
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter Array Elements you want to store :");
